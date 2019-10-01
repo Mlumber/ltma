@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate at Brandeis University
+role: PhD Candidate in Mathematics
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Brandeis University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
